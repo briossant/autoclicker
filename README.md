@@ -8,3 +8,5 @@ ps:
 im working on gui for this
 didnt test it on windows or macos
 it is randomiazed
+/ill put .exe file in pull releases if not there wait
+
